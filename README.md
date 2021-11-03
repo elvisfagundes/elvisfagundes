@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elvisfagundes
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning .NET and C#
-- 💞️ I’m looking to collaborate on community
+- 🌱 I’m currently learning Fullstack Development
+- 💞️ I'm looking to collaborate on my knowledge
 - 📫 How to reach me elvis.f.lisboa.jr@hotmail.com
 
 <!---
