@@ -1,7 +1,7 @@
 ### Olá, eu sou o Elvis!
 
 - 👀 Tenho interesse em desenvolvimento de software
-- 🌱 Atualmente estou aprendendo a como me tornar um desenvolvedor fullstack
+- 🌱 Atualmente estou aprendendo a como me tornar um desenvolvedor Fullstack
 
 ##
 
