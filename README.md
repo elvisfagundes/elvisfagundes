@@ -1,6 +1,6 @@
 ### Olá, eu sou o Elvis!
 
-- 👀 Atuo como QA há quase 3 anos
+- 👀 Atuo como QA há 3 anos
 - 🌱 Atualmente estou com foco em automatização de testes
 - 🌱 Iniciei estudos para CTFL, pretendo seguir na trilha até a certificação TAE.
 
